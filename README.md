@@ -1,10 +1,10 @@
 # NosBox
 Vagrant Box para Nosotros
 
-Ubuntu 20.04
+## Ubuntu 20.04
 User: Vagrant
 Password: vagrant
 
-Mysql
+## Mysql
 User: root
 Password: secret
