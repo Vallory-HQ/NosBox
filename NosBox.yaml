@@ -1,0 +1,33 @@
+---
+ip: "192.168.18.36"
+memory: 2048
+cpus: 2
+provider: virtualbox
+
+authorize: ~/.ssh/id_rsa.pub
+
+keys:
+    - ~/.ssh/id_rsa
+
+folders:
+    - map: ~/code
+      to: /var/www
+
+sites:
+    - map: homestead.test
+      to: /var/www/homestead/public
+    - map: phpmyadmin.nos
+      to: /var/www/phpMyAdmin
+    - map: cake.nos
+      to: /var/www/cake/webroot
+    - map: sancor.nos
+      to: /var/www/sancor/httpdocs/webroot
+
+databases:
+    - nosotros
+    - homestead
+    - cake
+    - sancor
+
+features:
+    - mariadb: false
