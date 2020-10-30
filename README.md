@@ -54,6 +54,6 @@ $ vagrant up
 | root    | secret   |
 
 ## Others
-- composer
-- git
-- phpmyadmin
+- Composer
+- Git
+- Phpmyadmin
