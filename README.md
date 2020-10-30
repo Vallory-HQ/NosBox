@@ -10,7 +10,7 @@ Vagrant Box para Nosotros
 ## Specs
 | Ubuntu LTS | Mysql Version | Php Version | NosBox Version | Branch
 | -----------| -----------   | ----------- | -----------    | -----------
-| 20.04      | 8.0           | 7.4         | 1.3            | `master`
+| 20.04      | 8.0           | 7.4         | 1.3            | `main`
 
 ## Set up and running
 
@@ -43,6 +43,15 @@ $ cd ~/NosBox
 $ vagrant up
 ```
 
+### Updating NosBox
+
+Vagrant will let you know when a new version of NosBox has been release, to update NosBox proceed to run the box by typing the next commands on your terminal:
+
+```
+$ cd ~/NosBox
+$ vagrant box update
+```
+
 ## Ubuntu 20.04
 | User    | Password |
 | ------- | -------- |
@@ -54,6 +63,6 @@ $ vagrant up
 | root    | secret   |
 
 ## Others
-- composer
-- git
-- phpmyadmin
+- Composer
+- Git
+- Phpmyadmin
