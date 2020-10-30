@@ -8,11 +8,11 @@ Vagrant Box para Nosotros
 
 ## Set up and running
 ```
-git clone https://github.com/Vallory-HQ/NosBox.git ~/NosBox
+$ git clone https://github.com/Vallory-HQ/NosBox.git ~/NosBox
 ```
 ```
-cd ~/NosBox
-vagrant up
+$ cd ~/NosBox
+$ vagrant up
 ```
 
 ## Ubuntu 20.04
