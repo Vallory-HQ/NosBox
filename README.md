@@ -10,7 +10,7 @@ Vagrant Box para Nosotros
 ## Specs
 | Ubuntu LTS | Mysql Version | Php Version | NosBox Version | Branch
 | -----------| -----------   | ----------- | -----------    | -----------
-| 20.04      | 5.7           | 7.4         | 1.0            | `master`
+| 20.04      | 8.0           | 7.4         | 1.1            | `master`
 
 ## Set up and running
 
