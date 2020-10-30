@@ -43,6 +43,6 @@ $ vagrant up
 | vagrant | vagrant  |
 
 ## Mysql
-| User | Password |
-| ---- | -------- |
-| root | secret   |
+| User    | Password |
+| ------- | -------- |
+| root    | secret   |
