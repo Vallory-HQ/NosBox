@@ -442,11 +442,11 @@ class NosBox
           s.args = [db]
         end
 
-        config.vm.provision 'shell' do |s|
-          s.name = 'Creating Postgres Database: ' + db
-          s.path = script_dir + '/create-postgres.sh'
-          s.args = [db]
-        end
+        #config.vm.provision 'shell' do |s|
+          #s.name = 'Creating Postgres Database: ' + db
+          #s.path = script_dir + '/create-postgres.sh'
+          #s.args = [db]
+        #end
 
       end
     end
