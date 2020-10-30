@@ -6,7 +6,7 @@ git clone https://github.com/Vallory-HQ/NosBox.git ~/NosBox
 ```
 
 ## Ubuntu 20.04
-User: Vagrant
+User: vagrant
 Password: vagrant
 
 ## Mysql
