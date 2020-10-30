@@ -38,9 +38,11 @@ $ vagrant up
 ```
 
 ## Ubuntu 20.04
-User: vagrant
-Password: vagrant
+| User     | vagrant |
+| -------- | ------- |
+| Password | vagrant |
 
 ## Mysql
-User: root
-Password: secret
+| User     | root    |
+| -------- | ------- |
+| Password | secret  |
