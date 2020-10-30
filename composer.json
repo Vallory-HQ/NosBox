@@ -1,0 +1,20 @@
+{
+    "name": "vallory/nosbox",
+    "type": "project",
+    "description": "Box for Vagrant",
+    "keywords": ["vagrant","Box", "LAMP"],
+    "homepage": "https://github.com/Vallory-HQ/NosBox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Vallory",
+            "email": "vallory@nosotroshq.com",
+            "homepage": "http://vallory.dev",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "virtualbox": ">=6.1.0",
+        "vagrant": ">=2.2.0"
+    }
+}
