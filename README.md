@@ -10,6 +10,10 @@ Vagrant Box para Nosotros
 ```
 git clone https://github.com/Vallory-HQ/NosBox.git ~/NosBox
 ```
+```
+cd ~/NosBox
+vagrant up
+```
 
 ## Ubuntu 20.04
 User: vagrant
