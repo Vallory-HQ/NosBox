@@ -1,9 +1,10 @@
 # NosBox
-Vagrant Box para Nosotros
-
 <p align="center">
 <a href="https://packagist.org/packages/vallory/nosbox"><img src="https://img.shields.io/badge/license-MIT-success" alt="License"> </a>
 </p>
+
+Vagrant Box para Nosotros
+
 
 ## Specs
 | Ubuntu LTS | Mysql Version | Php Version | NosBox Version | Branch
