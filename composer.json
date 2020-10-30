@@ -12,9 +12,5 @@
             "homepage": "http://vallory.dev",
             "role": "Developer"
         }
-    ],
-    "require": {
-        "virtualbox": ">=6.1.0",
-        "vagrant": ">=2.2.0"
-    }
+    ]
 }
