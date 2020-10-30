@@ -10,7 +10,7 @@ Vagrant Box para Nosotros
 ## Specs
 | Ubuntu LTS | Mysql Version | Php Version | NosBox Version | Branch
 | -----------| -----------   | ----------- | -----------    | -----------
-| 20.04      | 8.0           | 7.4         | 1.2            | `master`
+| 20.04      | 8.0           | 7.4         | 1.3            | `master`
 
 ## Set up and running
 
@@ -52,3 +52,8 @@ $ vagrant up
 | User    | Password |
 | ------- | -------- |
 | root    | secret   |
+
+## Others
+- composer
+- git
+- phpmyadmin
