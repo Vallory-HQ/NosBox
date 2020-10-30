@@ -6,7 +6,7 @@ Vagrant Box para Nosotros
 | -----------| -----------   | ----------- | -----------    | -----------
 | 20.04      | 5.7           | 7.4         | 1.0            | `master`
 
-## Download
+## Set up and running
 ```
 git clone https://github.com/Vallory-HQ/NosBox.git ~/NosBox
 ```
