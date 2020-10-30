@@ -30,7 +30,7 @@ $ git clone https://github.com/Vallory-HQ/NosBox.git ~/NosBox
 
 ### Running NosBox
 
-After successfully installing NosBox proceed to run the box by typing the next commands on your terminal:
+After successfully install NosBox proceed to run the box by typing the next commands on your terminal:
 
 ```
 $ cd ~/NosBox
