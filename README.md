@@ -64,5 +64,6 @@ $ vagrant box update
 
 ## Others
 - Composer
+- Npm
 - Git
 - Phpmyadmin

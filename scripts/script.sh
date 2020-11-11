@@ -48,3 +48,5 @@ php -r "if (hash_file('sha384', 'composer-setup.php') === 'c31c1e292ad7be5f49291
 sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 echo composer --version
 php -r "unlink('composer-setup.php');"
+
+sudo apt-get -y install npm
