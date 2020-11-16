@@ -94,7 +94,10 @@ Vagrant.configure("2") do |config|
     
     config.vm.network "private_network", ip: "192.168.33.10"
     config.vm.hostname = "nosbox"
-    config.vm.synced_folder "../code", "/var/www", :mount_options => ["dmode=777", "fmode=666"]
+    config.vm.synced_folder "../code", "/var/www", :mount_options => ["dmode=777", "fmode=775"]
+  
+  # If you need to execute a file
+  # config.vm.synced_folder "../code", "/var/www", :mount_options => ["dmode=777", "fmode=775"]
 
     if Vagrant.has_plugin?('vagrant-hostsupdater')
       config.hostsupdater.remove_on_suspend = false
